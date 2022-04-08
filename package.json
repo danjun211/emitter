@@ -1,0 +1,10 @@
+{
+  "name": "@jy-kkobug/emitter",
+  "packageManager": "yarn@3.2.0",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.34"
+  }
+}
